@@ -17,7 +17,7 @@
 ## Captura de Tela
 
 ![WhatsApp Image 2025-05-31 at 13 48 39](https://github.com/user-attachments/assets/e7e85f4f-5d2c-4b91-987f-c39f165ea000)
-reenshot.png)
+
 
 ## Como Usar
 
