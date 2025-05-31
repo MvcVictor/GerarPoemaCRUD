@@ -1,5 +1,4 @@
 # GeradorPoemaWin
-# GeradorPoemaWin
 
 **GeradorPoemaWin** é um aplicativo Windows Forms em C# (.NET Framework 4.7.2) que permite ao usuário criar poemas personalizados a partir de palavras e sentimentos escolhidos. O usuário informa nome, lugar, sentimento, qualidade e escolhe um dos estilos de poema disponíveis. O aplicativo então gera automaticamente um poema com base nas escolhas.
 
